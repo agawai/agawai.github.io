@@ -1,5 +1,5 @@
 body {
-    background: black;
+    background: grey;
     font-family: Arial, Helvetica, sans-serif;
 }
 
@@ -12,7 +12,7 @@ h1 {
     display: flex;
     padding: 10px;
     margin: 10px;
-    background: red;
+    background: blue;
 }
 
 .assign img {
